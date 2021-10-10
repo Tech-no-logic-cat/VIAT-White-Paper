@@ -11,7 +11,7 @@
 <p align="center"><i>Mind styling - always start from the original English version.</i></p>
 <br />
 <small>COPYRIGHT © 2021 <a href="https://universalweb.io">UNIVERSAL WEB, Inc</a></small>
-<!-- Italian translation by Marconi Fabio @Tech_no_logical cat 05 oct. 2021 rev.01-->
+<!-- Italian translation by Marconi Fabio @Tech_no_logical cat 05 oct. 2021, rev.10 oct 2021-->
 <h3>Viat Core</h3>
 <hr />
 <b>VIAT</b> - è la cripto valuta nativa per Universal Web e nello specifico per la rete Viat. Viat non deriva da reti o cripto preesistenti ma ne trae ispirazione introducendo concetti unici ed innovativi. La sua distribuzione è concepita per essere estremamente lenta e modica ma con molti meccanismi e modificatori che ne variano la ricompensa per il mining o influiscono su come viene elargita.
